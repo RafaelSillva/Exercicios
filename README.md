@@ -1,2 +1,2 @@
 # Exercicios
-Exercicios da aula de variaves da Cubos Academy
+Exercicios das aulas Cubos Academy
